@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  .medicine-image {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .quantity-input .btn {
+    padding: 0.5rem;
+  }
+  
+  .card {
+    border-radius: 10px;
+  }
+  
+  .alert {
+    font-size: 0.9rem;
+    border-radius: 10px;
+  }
+  
